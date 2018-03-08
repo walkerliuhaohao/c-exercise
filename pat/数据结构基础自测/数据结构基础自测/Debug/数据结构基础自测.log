@@ -1,0 +1,5 @@
+﻿  dbug.cpp
+e:\github\c-exercise\pat\数据结构基础自测\数据结构基础自测\dbug.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+dbug.obj : error LNK2005: _main 已经在 1.obj 中定义
+E:\github\c-exercise\pat\数据结构基础自测\Debug\数据结构基础自测.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
